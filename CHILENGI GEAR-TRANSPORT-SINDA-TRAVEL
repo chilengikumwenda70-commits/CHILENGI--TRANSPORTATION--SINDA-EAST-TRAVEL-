@@ -26,3 +26,47 @@
     </p>
   </body>
 </html>
+style.css
+<link rel="stylesheet" href="style.css">
+body {
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
+  color: #333;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #0066cc;
+  margin-top: 30px;
+}
+
+img {
+  border-radius: 50%;
+  margin-top: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #e6f0ff;
+  margin: 5px auto;
+  padding: 10px;
+  width: 200px;
+  border-radius: 10px;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
