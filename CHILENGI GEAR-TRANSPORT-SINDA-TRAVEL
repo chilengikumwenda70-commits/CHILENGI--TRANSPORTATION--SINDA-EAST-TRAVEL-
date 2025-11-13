@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Personal Profile</title>
+  </head>
+  <body>
+    <h1>Chilengi Kumwenda</h1>
+    <p>Hello! 👋 My name is Chilengi. I’m learning software development and I’m passionate about technology, business, and growth.</p>
+
+    <h2>My Hobbies</h2>
+    <ul>
+      <li>Coding</li>
+      <li>Reading</li>
+      <li>Farming</li>
+      <li>Playing football</li>
+    </ul>
+
+    <h2>My Social Links</h2>
+    <p>
+      <a href="https://www.instagram.com/chilengi.kumwenda/">Instagram</a><br>
+      <a href="https://www.tiktok.com/@chilengikumwenda70">TikTok</a>
+    </p>
+  </body>
+</html>
