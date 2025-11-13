@@ -5,6 +5,7 @@
   </head>
   <body>
     <img src="myphoto.jpg" alt="My Photo" width="200">
+    <a href="mailto:chilengikumwenda70@example.com">Email Me</a>)
     <h1>Chilengi Kumwenda</h1>
     <p>Hello! 👋 My name is Chilengi. I’m learning software development and I’m passionate about technology, business, and growth.</p>
 
@@ -20,7 +21,8 @@
     <p>
       <a href="https://www.instagram.com/chilengi.kumwenda/">Instagram</a><br>
       <a href="https://www.tiktok.com/@chilengikumwenda70">TikTok</a>
-       <a href="https://www.facebook.com/@chilengikumwenda70">facebook</a>
+      <a href="https://www.facebook.com/@chilengikumwenda70">facebook</a>
+      <a href="mailto:chilengikumwenda70@example.com">Email Me</a>)
     </p>
   </body>
 </html>
