@@ -3,7 +3,7 @@
   <head>
     <title>My Personal Profile</title>
   </head>
-  <body>
+  <body{ img src="myphoto.jpg" alt="My Photo" width="200"}
     <img src="myphoto.jpg" alt="My Photo" width="200">
     <a href="mailto:chilengikumwenda70@example.com">Email Me</a>)
     <h1>Chilengi Kumwenda</h1>
@@ -16,7 +16,7 @@
       <li>Farming</li>
       <li>Playing football</li>
     </ul>
-
+   <hr>
     <h2>My Social Links</h2>
     <p>
       <a href="https://www.instagram.com/chilengi.kumwenda/">Instagram</a><br>
@@ -26,16 +26,19 @@
     </p>
   </body>
 </html>
-style.css
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+<style.css>
 <link rel="stylesheet" href="style.css">
 body {
-  background-color: #f9f9f9;
-  font-family: Arial, sans-serif;
-  color: #333;
+  background: url('https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1400&q=80') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+  color: #fff;
   text-align: center;
   margin: 0;
   padding: 0;
 }
+
 
 h1 {
   color: #0066cc;
@@ -68,5 +71,245 @@ a {
 a:hover {
   text-decoration: underline;
 }
+<body>
+  <!-- Navigation Bar -->
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Projects</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+
+  <h1>Chilengi Kumwenda</h1>
+  <img src="myphoto.jpg" alt="My Photo" width="200">
+
+  <p>Hello! 👋 My name is Chilengi. I’m learning software development and I’m passionate about technology, business, and growth.</p>
+
+  <hr>
+
+  <h2>My Hobbies</h2>
+  <ul>
+    <li>Coding</li>
+    <li>Reading</li>
+    <li>Farming</li>
+    <li>Playing football</li>
+  </ul>
+
+  <hr>
+
+  <h2>My Social Links</h2>
+  <p>
+    <a href="https://www.instagram.com/chilengi.kumwenda/">Instagram</a><br>
+    <a href="https://www.tiktok.com/@chilengikumwenda70">TikTok</a>
+  </p>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 Chilengi Kumwenda — All Rights Reserved</p>
+  </footer>
+
+</body>
+/* Navigation Bar */
+nav {
+  background-color: #0066cc;
+  padding: 10px 0;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin: 0 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  background-color: #333;
+  color: white;
+  padding: 15px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+/* Responsive Design */
+@media (max-width: 600px) {
+  body {
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  nav ul {
+    display: block;
+  }
+
+  nav li {
+    display: block;
+    margin: 10px 0;
+  }
+
+  img {
+    width: 150px;
+  }
+
+  li {
+    width: 100%;
+  }
+
+/* Responsive Design */
+@media (max-width: 600px) {
+  body {
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  nav ul {
+    display: block;
+  }
+
+  nav li {
+    display: block;
+    margin: 10px 0;
+  }
+
+  img {
+    width: 150px;
+  }
+
+  li {
+    width: 100%;
+  }
+/* Responsive Design */
+@media (max-width: 600px) {
+  body {
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  nav ul {
+    display: block;
+  }
+
+  nav li {
+    display: block;
+    margin: 10px 0;
+  }
+
+  img {
+    width: 150px;
+  }
+
+  li {
+    width: 100%;
+  }
+/* Responsive Design */
+@media (max-width: 600px) {
+  body {
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  nav ul {
+    display: block;
+  }
+
+  nav li {
+    display: block;
+    margin: 10px 0;
+  }
+
+  img {
+    width: 150px;
+  }
+
+  li {
+    width: 100%;
+  }
+my st
+/* Responsive Design */
+@media (max-width: 600px) {
+  body {
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  nav ul {
+    display: block;
+  }
+
+  nav li {
+    display: block;
+    margin: 10px 0;
+  }
+
+  img {
+    width: 150px;
+  }
+
+  li {
+    width: 100%;
+  }
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+/* Responsive Design */
+@media (max-width: 600px) {
+  body {
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  nav ul {
+    display: block;
+  }
+
+  nav li {
+    display: block;
+    margin: 10px 0;
+  }
+
+  img {
+    width: 150px;
+  }
+
+  li {
+    width: 100%;
+  }
+
+  footer {
+    position: relative;
+  }
+}
+body {
+  background: url('https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1400&q=80') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+  color: #fff;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  background-color: rgba(0, 0, 0, 0.6);
+  margin: 40px auto;
+  width: 80%;
+  padding: 20px;
+  border-radius: 10px;
+}
+
 
 
